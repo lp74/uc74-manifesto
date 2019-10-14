@@ -1,2 +1,21 @@
-# uc74-manifesto
-manifesto
+# Manifesto
+
+- poni il valore di business in primo piano
+- poni il focus su ciò che ha lunga durata
+- investi e inietta energia nel team. Un team affiatato conquista spazi esterni. Le lotte intestine consumano energie e producono risultati di poco conto: si vincono un pugno di mosche, tutti perdono opportunità
+- lotta e agisci per raggiungere grandi traguardi. Accogli le grandi ambizioni con entusiasmo, si realizzano tramite l'azione di gruppo.
+- non avere paura di sbagliare, del giudizio e di ciò che pone un freno alla tua evoluzione
+- la critica è un fattore di crescita. Accetta le critiche, formulane con amore quando necessario
+- trasforma gli agenti negativi in stimoli positivi per la tua crescita e la tua stabilità
+- sii efficiente e conciso. Anche i teoremi più difficili si enunciano in poche righe. Poche righe esprimono la tua storia, il viaggio che hai compiuto nella comprensione di un teorema.
+- riduci ai minimi termini impiegando il nucleo di ciò che ti rende efficiente
+- aderisci agli standard tecnologici, se resti efficiente e conciso senza una libreria o un framework, non lo usare
+- investi nella formazione, sfidati con nuove idee, sbaglia e impara dai tuoi errori, quando tornerai sul tuo lavoro sarai più preparato, più consapevole e efficiente
+- condividi ciò che hai appreso
+- sii progressivo, promuovi il riuso e l'evoluzione del valore
+- concentra il valore, non disperderlo
+- impara a capire quando è necessario rompere con il passato
+- fai in modo che sia facile rompere con il passato (agilità)
+- scrivi codice reattivo, la tecnologia si evolve verso la produzione ed il consumo di stream di dati (Publish-subscribe, Observer, Event driven patterns)
+- sii state-less quanto più possibile. Promuovi la trasformazione, non la mutazione
+- salva ciò che è prodotto di valore computazionale rendendone fruibili il consumo
